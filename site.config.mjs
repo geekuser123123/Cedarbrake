@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://cedarbrake.kevin-c4h.workers.dev', // no trailing slash — confirm after first Cloudflare deploy
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'abwyjLLZ-0Mc6xdh-O75TK4oWYaQiyIvZ0bPomUuirQ', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
